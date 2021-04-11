@@ -6,35 +6,7 @@ toc: false
 comments: true
 ---
 
-This page is about page for DLC (deep learning computing). 
-
-This page also show the avatar with differernt super resolution algorithm of `bicubic` and `waifu2x` (deep learning one)where bicubic is commonly used in common VGA chip as default super resolution algorithm. As you can see the deep learning one provide better quality on smaller aliasing and color disnormal.
-
-<body>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-
-      <script src="{{ site.url }}{{ site.baseurl }}/assets/plugins/jquery.event.move.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/assets/plugins/jquery.twentytwenty.js"></script>
-      <script>
-        $(function()
-        {
-
-          $(".twentytwenty-container").eq(0).twentytwenty({default_offset_pct: 0.5,
-          before_label: "bicubic",
-          after_label: "waifu2x",
-          no_overlay: false, 
-          move_slider_on_hover: false, 
-          move_with_handle_only: true, 
-          click_to_move: true 
-          });
-        });
-  </script>
-</body>
-
-{% slider2020 %}
-  ![lanczos3]({{ site.url }}{{ site.baseurl }}/assets/images/avatar255x287-bicubic.png)
-  ![Waifu2x]({{ site.url }}{{ site.baseurl }}/assets/images/avatar255x287-waifu2x_photo.png)
-{% endslider2020 %}
+This page is about page for Working space for wjlee. 
 
 <body>
   <div class="container">
