@@ -4,7 +4,7 @@ title: "Working space for wjlee"
 description: 'Working space for wjlee'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
+baseurl: 'https://wjlee-barco.github.io'
 avatar: 'assets/images/avatar255x287.png'
 #disqus: 'demowebsite'
 email: 'wenchiehlee1020@gmail.com'
