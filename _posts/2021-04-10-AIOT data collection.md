@@ -10,6 +10,9 @@ author: wjlee
 ---
 
 ## AIOT data collection
+
+AIOT is the combination of AI and IOT. Three major steps for AIOT: data, intelligence, actions mean data collection, smart data intelligence, then actions accordingly. For data collection, IOT devices and events data  might be collected via several approaches. Here we focus on the approaches of data collections and aggreagration. 
+
 ### via InfluxDB
 
 [![](https://www.influxdata.com/wp-content/uploads/APM-Diagram-1.png)](https://www.influxdata.com/time-series-platform/telegraf/)
