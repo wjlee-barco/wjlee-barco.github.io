@@ -11,9 +11,22 @@ author: wjlee
 
 ## AIOT data collection
 
-AIOT is the combination of AI and IOT. Three major steps for AIOT: data, intelligence, actions mean data collection, smart data intelligence, then actions accordingly. For data collection, IOT devices and events data  might be collected via several approaches. Here we focus on the approaches of data collections and aggreagration. 
+AIOT is the combination of AI and IOT. Three major steps for AIOT: **data**, **intelligence**, **actions** mean **data collection**, **smart data intelligence**, then **actions** accordingly. For **data collection**, **IOT devices events** and **user behaviorial events** might be collected via several approaches. Here we focus on the approaches of data collections and aggreagration. 
 
 ### via InfluxDB
+
+**data collection**, or IOT devices and user behaviorial events collection, can be formulated as **time series** or **events** and and stored in **times series database** ([TSDB](https://www.influxdata.com/time-series-database/))
+
+a time series or event can be in the form of
+
+```
+measurement-name tag-set field-set timestamp
+```
+andd an example as
+```
+cpu,host=serverA,region=uswest idle=23,user=42,system=12 1464623548s
+```
+[influxDB](https://www.influxdata.com/) is the top solution for ([TSDB](https://www.influxdata.com/time-series-database/)) as collectors, aggregators and visualizer and its block digram as below.
 
 [![](https://www.influxdata.com/wp-content/uploads/APM-Diagram-1.png)](https://www.influxdata.com/time-series-platform/telegraf/)
 
