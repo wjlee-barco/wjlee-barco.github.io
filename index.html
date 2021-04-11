@@ -1,9 +1,9 @@
---- 
-title: "dlc.barco.com v3"
+---
+title: "Working space for wjlee"
 layout: default
 pagination:
     enabled: true
-description: "dlc.barco.com v3"
+description: "Working space for wjlee"
 ---
 
 
@@ -22,7 +22,7 @@ description: "dlc.barco.com v3"
             <div class="card border-0 mb-4 box-shadow">
                 <a href="{{site.baseurl}}{{latest_post.url}}">
                     <div class="topfirstimage" style="background-image: url({% if latest_post.image contains " ://
-                        " %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+                        " %}{{ latest_post.image }}{% else %} {{ site.url }}{{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
                 </a>
                 <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
                     <h2 class="h4 font-weight-bold">
