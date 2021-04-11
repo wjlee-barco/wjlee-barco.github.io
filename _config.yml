@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 avatar: 'assets/images/avatar255x287.png'
 #disqus: 'demowebsite'
-email: 'wj.lee@barco.com'
+email: 'wenchiehlee1020@gmail.com'
 
 include: ["_pages"]
 permalink: /:title/
@@ -36,7 +36,7 @@ authors:
       name:           Wen-Chieh-Lee
       site:           https://wjlee-barco.github.io/
       avatar:         /assets/images/avatar255x287.png
-      bio:            "Senior Software Architect"
+      bio:            "Software architect"
       email:          wenchiehlee1020@gmail.com
  
 # Defaults
