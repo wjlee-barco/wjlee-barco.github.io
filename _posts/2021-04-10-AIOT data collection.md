@@ -2,7 +2,7 @@
 title:  "AIOT data collection"
 metadate: "2021-04-10 21:40:10"
 categories: ["BigData", "IOT"]
-image: ""
+image: "https://www.influxdata.com/wp-content/uploads/APM-Diagram-1.png"
 visit:
 tags: [featured]
 featured: true
