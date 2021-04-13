@@ -24,8 +24,10 @@ measurement-name tag-set field-set timestamp
 ```
 andd an example as
 ```
-cpu,host=serverA,region=uswest idle=23,user=42,system=12 1464623548s
+temperature,device=device1,buidling=b1 internal=80,external=18 1443782126
 ```
+[![](({{site.url}}{{site.baseurl}}/assets/images/13.04.2021_10.35.03_REC.png)]()
+
 [influxDB](https://www.influxdata.com/) is the top solution for ([TSDB](https://www.influxdata.com/time-series-database/)) as collectors, aggregators and visualizer and its block digram as below.
 
 [![](https://www.influxdata.com/wp-content/uploads/APM-Diagram-1.png)](https://www.influxdata.com/time-series-platform/telegraf/)
