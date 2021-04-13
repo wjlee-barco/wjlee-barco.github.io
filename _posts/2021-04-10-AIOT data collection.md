@@ -20,7 +20,7 @@ AIOT is the combination of AI and IOT. Three major steps for AIOT: **data**, **i
 a time series or event can be in the form of
 
 ```
-measurement-name tag-set field-set timestamp
+measurement tag fields timestamp
 ```
 andd an example as
 ```
