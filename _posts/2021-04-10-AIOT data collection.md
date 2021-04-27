@@ -36,3 +36,4 @@ temperature,device=device1,buidling=b1 internal=80,external=18 1443782126
 ## References
 * [How To Install InfluxDB Telegraf and Grafana on Docker](https://devconnected.com/how-to-install-influxdb-telegraf-and-grafana-on-docker/)
 * [Nextcloud to influxDB (Grafana for display) with telegraf](https://blog.lbdg.me/nextcloud-influxdb-telegraf-grafana/)
+* [Cassandra vs. InfluxDB vs. MongoDB](https://db-engines.com/en/system/Cassandra%3BInfluxDB%3BMongoDB)
