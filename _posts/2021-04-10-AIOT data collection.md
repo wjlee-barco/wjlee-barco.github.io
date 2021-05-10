@@ -26,7 +26,10 @@ andd an example as
 ```
 temperature,device=device1,buidling=b1 internal=80,external=18 1443782126
 ```
+
 [![]({{site.url}}{{site.baseurl}}/assets/images/13.04.2021_10.35.03_REC.png)]()
+
+
 
 [influxDB](https://www.influxdata.com/) is the top solution for ([TSDB](https://www.influxdata.com/time-series-database/)) as collectors, aggregators and visualizer and its block digram as below.
 
