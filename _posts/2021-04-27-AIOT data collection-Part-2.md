@@ -22,11 +22,11 @@ Deeper insights of data
 [![](https://research.aimultiple.com/wp-content/uploads/2019/12/Evolution-of-Analytics-1160x880.png)](https://research.aimultiple.com/analytics/)
 
 
-Deeper insights of data coming from evolution of data analytics service
+Deeper insights of data: Coming from evolution of data analytics service
 
 [![](https://hgs.cx/wp-content/uploads/2021/01/predictive-analytics-and-cognitive-analytics-img1.png)](https://www.hgsdigital.com/services/data-and-analytics/predictive-analytics-and-cognitive-analytics)
 
-Deeper insights of data coming from more automation
+Deeper insights of data: Coming from more automation
 
 [![](https://datajourney.akvo.org/hs-fs/hubfs/Screen%20Shot%202020-07-28%20at%2012.08.42.png?width=1094&name=Screen%20Shot%202020-07-28%20at%2012.08.42.png)](https://datajourney.akvo.org/blog/the-four-types-of-data-analysis)
 
